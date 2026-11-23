@@ -49,13 +49,25 @@ Focus Guard is a privacy-focused browser extension that helps you regain control
 
 ## 🏪 Store Submissions
 
-### Store Links
+### Publish Your Extension
 
-| Store | Link |
-|---|---|
-| **Chrome Web Store** | [https://chrome.google.com/webstore/devconsole](https://chrome.google.com/webstore/devconsole) |
-| **Microsoft Edge Add-ons** | [https://partner.microsoft.com/dashboard/microsoftedge](https://partner.microsoft.com/dashboard/microsoftedge) |
-| **Firefox (AMO)** | [https://addons.mozilla.org/developers](https://addons.mozilla.org/developers) |
+Easly submit Focus Guard to the major browser stores using these developer links:
+
+<div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
+
+<a href="https://chrome.google.com/webstore/devconsole" target="_blank">
+  <img src="https://img.shields.io/badge/Chrome-Web%20Store-%23ff3e00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store">
+</a>
+
+<a href="https://partner.microsoft.com/dashboard/microsoftedge" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Edge-%232a2a2f?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Edge Add-ons">
+</a>
+
+<a href="https://addons.mozilla.org/developers" target="_blank">
+  <img src="https://img.shields.io/badge/Firefox-AMO-%23f8a02e?style=for-the-badge&logo=firefox-browser" alt="Firefox AMO">
+</a>
+
+</div>
 
 ### Extension Files
 
