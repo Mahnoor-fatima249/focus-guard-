@@ -1,12 +1,9 @@
 # Focus Guard: Distraction Blocker
 
 <div align="center">
-
+   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)](https://github.com/Mahnoor-fatima249/focus-guard-/ releases)
-
-[![GitHub stars](https://img.shields.io/github/stars/Mahnoor-fatima249/focus-guard-?style=social&style=for-the-badge)](https://github.com/Mahnoor-fatima249/focus-guard-)
 
 </div>
 
