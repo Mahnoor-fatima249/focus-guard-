@@ -49,25 +49,18 @@ Focus Guard is a privacy-focused browser extension that helps you regain control
 
 ## 🏪 Store Submissions
 
-<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+### Store Links
 
-<a href="https://chrome.google.com/webstore/devconsole" target="_blank" style="background: #ff3e00; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500; display: inline-block;">
-  Chrome Web Store
-</a>
+| Store | Link |
+|---|---|
+| **Chrome Web Store** | [https://chrome.google.com/webstore/devconsole](https://chrome.google.com/webstore/devconsole) |
+| **Microsoft Edge Add-ons** | [https://partner.microsoft.com/dashboard/microsoftedge](https://partner.microsoft.com/dashboard/microsoftedge) |
+| **Firefox (AMO)** | [https://addons.mozilla.org/developers](https://addons.mozilla.org/developers) |
 
-<a href="https://partner.microsoft.com/dashboard/microsoftedge" target="_blank" style="background: #2a2a2f; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500; display: inline-block;">
-  Edge Add-ons
-</a>
+### Extension Files
 
-<a href="https://addons.mozilla.org/developers" target="_blank" style="background: #f8a02e; color: #1e1e1e; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 500; display: inline-block;">
-  Firefox (AMO)
-</a>
-
-</div>
-
-<p style="margin-top: 12px; font-size: 0.9em; color: #666;">
-<strong>Files:</strong> <code>focus-guard-chrome-edge.zip</code> (Chrome/Edge), <code>focus-guard-firefox.zip</code> (Firefox)
-</p>
+- `focus-guard-chrome-edge.zip` — Chrome and Edge
+- `focus-guard-firefox.zip` — Firefox
 
 - Build packages: `./build.sh`
 - Modify `manifest.firefox.json` for custom Firefox ID
